@@ -1,0 +1,74 @@
+.welcomMessage {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+  
+}
+
+.keyInMessage{
+    margin-top: 250px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(44, 155, 155);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.whichMessage{
+    margin-top: -200px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    color: rgb(44, 155, 155);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+.allButtons{
+    display: flex;
+    flex-basis: auto;
+    flex-direction: column;
+}
+
+
+#codeBox{
+    margin-left: 320px;
+    margin-top: 150px;
+    background-color: #5e4caf; /* Green */
+    border: none;
+    color: white;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+#keyBox{
+    margin-left: 820px;
+    margin-top: -100px;
+    background-color: #5e4caf; /* Green */
+    border: none;
+    color: white;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+
+#whichBox{
+    margin-left: 1300px;
+    margin-top: -100px;
+    background-color: #5e4caf; /* Green */
+    border: none;
+    color: white;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+
+}
